@@ -18,7 +18,6 @@ Currently shipping real-time interfaces at **Grupo Monge** and cross-platform mo
 - ⚡ Real-time web interfaces with **React**, **Blazor** & **SignalR**
 - 📱 Cross-platform mobile apps with **Flutter** and **React Native**
 - 🔔 Push notification infrastructure, live geolocation, and full App Store / Google Play release cycles
-- 🧪 Personal projects: [Legal Track USA](https://github.com/edwin08torres) (immigration case tracker) & FactuStock (POS + inventory)
 
 ---
 
@@ -53,8 +52,8 @@ Currently shipping real-time interfaces at **Grupo Monge** and cross-platform mo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edwin08torres&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwin08torres&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edwin08torres&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwin08torres&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
 </p>
 
 <p align="center">
