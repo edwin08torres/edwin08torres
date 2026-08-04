@@ -4,7 +4,7 @@
 
 ### Senior Mobile Developer building high-performance, scalable apps for iOS & Android
 
-I specialize in architecting complete mobile lifecycles with **React Native & Flutter**, backed by robust **.NET & SQL Server** infrastructures. Currently shipping real-time interfaces at **Grupo Monge**, cross-platform experiences at **Fusion Pax**, and scaling tech solutions through my agency, **DETDevs**.
+With 5+ years of experience, I am passionate about solving complex technical challenges with simple and efficient solutions. I specialize in taking products from conception to App Store and Google Play deployment, mastering the complete mobile lifecycle with **React Native & Flutter** backed by robust **.NET & SQL Server** architectures. My goal is simple: deliver fluid, 60fps native-feeling interfaces and bring value to challenging remote global projects.
 
 📍 Managua, Nicaragua &nbsp;·&nbsp; 🌐 [edwintorrez.netlify.app](https://edwintorrez.netlify.app/)
 
@@ -50,12 +50,12 @@ I specialize in architecting complete mobile lifecycles with **React Native & Fl
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edwin08torres&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwin08torres&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edwin08torres&theme=tokyonight&hide_border=true" width="60%" />
+  <a href="https://github.com/edwin08torres">
+    <img src="https://github-readme-stats.vercel.app/api?username=edwin08torres&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/edwin08torres">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwin08torres&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
 </p>
 
 ---
