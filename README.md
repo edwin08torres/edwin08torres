@@ -2,7 +2,7 @@
 
 # Hey, I'm Edwin 👋
 
-### Senior Mobile Developer building high-performance, scalable apps for iOS & Android
+### Sr Mobile Developer | React Native & Flutter | iOS & Android
 
 With 5+ years of experience, I am passionate about solving complex technical challenges with simple and efficient solutions. I specialize in taking products from conception to App Store and Google Play deployment, mastering the complete mobile lifecycle with **React Native & Flutter** backed by robust **.NET & SQL Server** architectures. My goal is simple: deliver fluid, 60fps native-feeling interfaces and bring value to challenging remote global projects.
 
