@@ -2,10 +2,9 @@
 
 # Hey, I'm Edwin 👋
 
-### Frontend & Mobile Developer building fast, native-feeling products for web and app stores
+### Senior Mobile Developer building high-performance, scalable apps for iOS & Android
 
-I specialize in **React / React Native / Flutter**, with a full-stack backbone in **.NET & SQL Server**.
-Currently shipping real-time interfaces at **Grupo Monge** and cross-platform mobile apps at **Fusion Pax**.
+I specialize in architecting complete mobile lifecycles with **React Native & Flutter**, backed by robust **.NET & SQL Server** infrastructures. Currently shipping real-time interfaces at **Grupo Monge**, cross-platform experiences at **Fusion Pax**, and scaling tech solutions through my agency, **DETDevs**.
 
 📍 Managua, Nicaragua &nbsp;·&nbsp; 🌐 [edwintorrez.netlify.app](https://edwintorrez.netlify.app/)
 
@@ -13,38 +12,37 @@ Currently shipping real-time interfaces at **Grupo Monge** and cross-platform mo
 
 ---
 
-### 🔭 What I'm building right now
+### 🔭 What I'm architecting right now
 
-- ⚡ Real-time web interfaces with **React**, **Blazor** & **SignalR**
-- 📱 Cross-platform mobile apps with **Flutter** and **React Native**
-- 🔔 Push notification infrastructure, live geolocation, and full App Store / Google Play release cycles
+- 📱 **Mobile-First Ecosystems:** Building fluid 60fps cross-platform applications and managing end-to-end deployments via App Store Connect and Google Play Console.
+- ⚙️ **Complex State & Logic:** Designing efficient data flows and unified customer state architectures for SaaS platforms and agile POS systems.
+- ⚡ **Real-Time Integrations:** Connecting mobile frontends with robust .NET backends, SignalR, and deploying automated WhatsApp Business Cloud API channels.
+- 🛠️ **Infrastructure & Quality:** Implementing robust authentication flows with Firebase, memory optimization, and maintaining strict CI/CD pipelines.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Web & Mobile**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+**Mobile Development**
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Backend & Data**
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+**Web & Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Language & State**
+**State & Language**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-433E38?style=flat-square&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-**Styling & Tools**
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+**Backend, Data & Cloud**
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 
 ---
@@ -67,5 +65,3 @@ Currently shipping real-time interfaces at **Grupo Monge** and cross-platform mo
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://edwintorrez.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edwintorrez)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/byalex1821)
-
-</div>
